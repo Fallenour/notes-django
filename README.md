@@ -18,17 +18,17 @@
 | Component   | Description | Link |
 | ----------- | ----------- | ----------- |
 | Model View Controller (MVC)| How Django Loads, manages, and handles requests |[Link](#-model-view-controller) |
-| Models | How Django structures data |[Link](#Models)|
-| Views | How Django structures requests & renders |[Link](#Views)|
-| Controllers |     |[Link](#Controllers)|
-| URLs     | How Django manages endpoints    |[Link](#URLs)|  
-| Database | How Django manages data      ||
-| Settings | How Django is configured     ||
-| Secure Coding | Django Secure Coding Best Practices ||  
-| Django Unit Tests | Guides on how to build unit, function, and view testing of Django ||
-| Dockerizing Django | Best Practices on Dockerizing Django ||
-| Deploying to Production | Best Practices for Deploying to Production ||
-| Link | [Warehouse-Management-System](https://github.com/Fallenour/Warehouse-Management-System-Django) ||
+| Models | How Django structures data |[Link](#-models)|
+| Views | How Django structures requests & renders |[Link](#-views)|
+| Controllers |     |[Link](#-controllers)|
+| URLs     | How Django manages endpoints    |[Link](#-urls)|  
+| Database | How Django manages data      |[Link](#-databases)|
+| Settings | How Django is configured     |[Link](#-settings)|
+| Secure Coding | Django Secure Coding Best Practices |[Link](#-secure-coding)|  
+| Django Unit Tests | Guides on how to build unit, function, and view testing of Django |[Link](#-django-unit-tests)|
+| Dockerizing Django | Best Practices on Dockerizing Django |[Link](#-dockerizing-django)|
+| Deploying to Production | Best Practices for Deploying to Production |[Link](#-deploying-to-production)|
+
 ---
 ---
 
