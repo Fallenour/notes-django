@@ -130,7 +130,7 @@
 ---
 
 ## [↑](#-table-of-contents) Settings
-> Views Notes for Django
+> Settings Notes for Django
 
 ---
 ### Overview 
