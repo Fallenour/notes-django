@@ -114,7 +114,7 @@
 ---
 ---
 ## [↑](#-table-of-contents) Databases
-> Views Notes for Django
+> Databases Notes for Django
 
 ---
 ### Overview 
