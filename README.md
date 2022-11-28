@@ -83,7 +83,7 @@
 
 
 ## [↑](#-table-of-contents) Controllers
-> Views Notes for Django
+> Controllers Notes for Django
 
 ---
 ### Overview 
