@@ -42,7 +42,7 @@
 
 | Component   | Description | Link |
 | ----------- | ----------- | ----------- |
-| Model View Controller (MVC) Basics   | Understanding Model View Controller (MVC) Basics | Link (https://<webaddress>) |
+| Model View Controller (MVC) Basics   | Understanding Model View Controller (MVC) Basics | Link(https://<webaddress>) |
 | Backend     | Django, Python, Javascript, REST       |
 | Database     | dbsqlite3      |
 | Automations     | Celery    |
