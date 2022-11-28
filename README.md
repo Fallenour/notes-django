@@ -59,6 +59,8 @@
 | Component   | Description | Link |
 | ----------- | ----------- | ----------- |
 | Models Basics | Understanding Models Basics | [Link](https://<webaddress>) |
+| Primary Keys | Understanding Primary Keys | [Link](https://<webaddress>) |
+| Forieng Keys | Understanding Foreign Keys | [Link](https://<webaddress>) |
 
 
 ---
@@ -76,6 +78,10 @@
 | Component   | Description | Link |
 | ----------- | ----------- | ----------- |
 | Views Basics   | Understanding Views Basics | [Link](https://<webaddress>) |
+| Class Based Views (CBVs) | Understanding Class Based Views | [Link](https://<webaddress>) |
+| Function Based Views (FBVs) | Understanding Function Based Views | [Link](https://<webaddress>) |
+| CBVs vs FBVs | Understanding the differences of CBVs & FBVs | [Link](https://<webaddress>) |
+| Mixins Basics | Understanding Mixins Basics | [Link](https://<webaddress>) |
 
 
 ---
