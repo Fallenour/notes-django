@@ -162,7 +162,7 @@
 ---
 
 ## [↑](#-table-of-contents) Django Unit Tests
-> Views Notes for Django
+> Django Unit Tests Notes for Django
 
 ---
 ### Overview 
@@ -171,7 +171,7 @@
 
 | Component   | Description | Link |
 | ----------- | ----------- | ----------- |
-| Views Basics   | Understanding Views Basics | [Link](https://<webaddress>) |
+| Django Unit Tests Basics   | Understanding Django Unit Tests Basics | [Link](https://<webaddress>) |
 
 
 ---
