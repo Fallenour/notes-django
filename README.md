@@ -1,4 +1,4 @@
-# notes-django
+# Notes-Django
 
 ## 📖 Tour Guide
 
@@ -32,17 +32,17 @@
 ---
 
 # Django
-## [↑](#-table-of-contents) Warehouse-Management-System
-> Personal statement to this project
+## [↑](#-table-of-contents) Model View Controller
+> Model View Controller Notes for Django
 
 ---
 ### Overview 
-- Project Description
+- <additional notes here>
 ---
 
-| Component   | Description |
-| ----------- | ----------- |
-| Frontend    | Bootstrap 5, HTML5, CSS, SCSS, Javascript, ChartJS       |
+| Component   | Description | Link |
+| ----------- | ----------- | ----------- |
+| Model View Controller (MVC) Basics   | Understanding Model View Controller (MVC) Basics | Link (https://<webaddress>) |
 | Backend     | Django, Python, Javascript, REST       |
 | Database     | dbsqlite3      |
 | Automations     | Celery    |
