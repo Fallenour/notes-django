@@ -178,7 +178,7 @@
 ---  
   
 ## [↑](#-table-of-contents) Dockerizing Django
-> Views Notes for Django
+> Dockerizing Django Notes for Django
 
 ---
 ### Overview 
@@ -187,14 +187,14 @@
 
 | Component   | Description | Link |
 | ----------- | ----------- | ----------- |
-| Views Basics   | Understanding Views Basics | [Link](https://<webaddress>) |
+| Dockerizing Django Basics   | Understanding Dockerizing Django Basics | [Link](https://<webaddress>) |
 
 
 ---
 ---  
   
 ## [↑](#-table-of-contents) Deploying to Production
-> Views Notes for Django
+> Deploying to Production Notes for Django
 
 ---
 ### Overview 
@@ -203,7 +203,7 @@
 
 | Component   | Description | Link |
 | ----------- | ----------- | ----------- |
-| Views Basics   | Understanding Views Basics | [Link](https://<webaddress>) |
+| Deploying to Production Basics   | Understanding Deploying to Production Basics | [Link](https://<webaddress>) |
 
 
 ---
