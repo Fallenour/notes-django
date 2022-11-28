@@ -99,7 +99,7 @@
 ---
 
 ## [↑](#-table-of-contents) URLs
-> Views Notes for Django
+> URLs Notes for Django
 
 ---
 ### Overview 
