@@ -17,21 +17,21 @@
 
 | Component   | Description | Link |
 | ----------- | ----------- | ----------- |
-| Model View Controller (MVC)    | How Django Loads, manages, and handles requests ||
-| Models     | How Django structures data ||
-| Views     | How Django structures requests & renders      ||
-| Controllers     |     ||
+| Model View Controller (MVC)| How Django Loads, manages, and handles requests |[Project Directory](#Model View Controller)|
+| Models | How Django structures data ||
+| Views | How Django structures requests & renders ||
+| Controllers |     ||
 | URLs     | How Django manages endpoints    ||  
-| Database     | How Django manages data      ||  
-|   Settings   | How Django is configured     ||
-| Dockerizing Django     | Best Practices on Dockerizing Django ||
+| Database | How Django manages data      ||
+| Settings | How Django is configured     ||
 | Secure Coding | Django Secure Coding Best Practices ||  
-| Django Unit Tests   | Guides on how to build unit, function, and view testing of Django ||  
+| Django Unit Tests | Guides on how to build unit, function, and view testing of Django ||
+| Dockerizing Django | Best Practices on Dockerizing Django ||
+| Deploying to Production | Best Practices for Deploying to Production ||
 | Link | [Warehouse-Management-System](https://github.com/Fallenour/Warehouse-Management-System-Django) ||
 ---
 ---
 
-# Django
 ## [↑](#-table-of-contents) Model View Controller
 > Model View Controller Notes for Django
 
@@ -42,18 +42,76 @@
 
 | Component   | Description | Link |
 | ----------- | ----------- | ----------- |
-| Model View Controller (MVC) Basics   | Understanding Model View Controller (MVC) Basics | [Link](https://<webaddress>) |
-| Backend     | Django, Python, Javascript, REST       |
-| Database     | dbsqlite3      |
-| Automations     | Celery    |
-| Caching     | Redis    |  
-| Datalake     | Elastic      |  
-| Frameworks     | Django, Django Rest Framework     |
-| Containerized     | Ready |
-| SAST/DAST Complete | SonarQube, No |  
-| Production Ready   | No |  
-| Link | [Warehouse-Management-System](https://github.com/Fallenour/Warehouse-Management-System-Django) |
+| Model View Controller (MVC) Basics | Understanding Model View Controller (MVC) Basics | [Link](https://<webaddress>) |
 
+
+---
+---
+
+## [↑](#-table-of-contents) Models
+> Models Notes for Django
+
+---
+### Overview 
+- <additional notes here>
+---
+
+| Component   | Description | Link |
+| ----------- | ----------- | ----------- |
+| Models Basics | Understanding Models Basics | [Link](https://<webaddress>) |
+
+
+---
+---
+  
+
+## [↑](#-table-of-contents) Views
+> Views Notes for Django
+
+---
+### Overview 
+- <additional notes here>
+---
+
+| Component   | Description | Link |
+| ----------- | ----------- | ----------- |
+| Views Basics   | Understanding Views Basics | [Link](https://<webaddress>) |
+
+
+---
+---
+
+
+## [↑](#-table-of-contents) Views
+> Views Notes for Django
+
+---
+### Overview 
+- <additional notes here>
+---
+
+| Component   | Description | Link |
+| ----------- | ----------- | ----------- |
+| Views Basics   | Understanding Views Basics | [Link](https://<webaddress>) |
+
+
+---
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 ---
 ---
 
