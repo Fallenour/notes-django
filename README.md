@@ -17,11 +17,11 @@
 
 | Component   | Description | Link |
 | ----------- | ----------- | ----------- |
-| Model View Controller (MVC)| How Django Loads, manages, and handles requests |[Project Directory](#Model-View-Controller)|
-| Models | How Django structures data ||
-| Views | How Django structures requests & renders ||
-| Controllers |     ||
-| URLs     | How Django manages endpoints    ||  
+| Model View Controller (MVC)| How Django Loads, manages, and handles requests |[Link](#Model-View-Controller)|
+| Models | How Django structures data |[Link](#Models)|
+| Views | How Django structures requests & renders |[Link](#Views)|
+| Controllers |     |[Link](#Controllers)|
+| URLs     | How Django manages endpoints    |[Link](#URLs)|  
 | Database | How Django manages data      ||
 | Settings | How Django is configured     ||
 | Secure Coding | Django Secure Coding Best Practices ||  
