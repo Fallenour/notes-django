@@ -15,19 +15,19 @@
 
 ## 📖 Table of Contents
 
-| Component   | Description |
-| ----------- | ----------- |
-| Model View Controller (MVC)    | How Django Loads, manages, and handles requests |
-| Models     | How Django structures data |
-| Views     | How Django structures requests & renders      |
-| Controllers     |     |
-| URLs     | How Django manages endpoints    |  
-| Database     | How Django manages data      |  
-|   Settings   | How Django is configured     |
-| Dockerizing Django     | Best Practices on Dockerizing Django |
-| Secure Coding | Django Secure Coding Best Practices |  
-| Django Unit Tests   | Guides on how to build unit, function, and view testing of Django |  
-| Link | [Warehouse-Management-System](https://github.com/Fallenour/Warehouse-Management-System-Django) |
+| Component   | Description | Link |
+| ----------- | ----------- | ----------- |
+| Model View Controller (MVC)    | How Django Loads, manages, and handles requests ||
+| Models     | How Django structures data ||
+| Views     | How Django structures requests & renders      ||
+| Controllers     |     ||
+| URLs     | How Django manages endpoints    ||  
+| Database     | How Django manages data      ||  
+|   Settings   | How Django is configured     ||
+| Dockerizing Django     | Best Practices on Dockerizing Django ||
+| Secure Coding | Django Secure Coding Best Practices ||  
+| Django Unit Tests   | Guides on how to build unit, function, and view testing of Django ||  
+| Link | [Warehouse-Management-System](https://github.com/Fallenour/Warehouse-Management-System-Django) ||
 ---
 ---
 
