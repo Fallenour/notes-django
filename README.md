@@ -59,7 +59,7 @@
 
   [Link](https://medium.com/@ksarthak4ever/django-class-based-views-vs-function-based-view-e74b47b2e41b)
   [Link](https://levelup.gitconnected.com/django-celery-going-deeper-with-background-tasks-in-python-fa44958cf7cd)
-  [Link](https://articles.wesionary.team/django-optimizations-database-4945cebb945c
+  [Link](https://articles.wesionary.team/django-optimizations-database-4945cebb945c)
   [Link](https://nishanthmurugananth.medium.com/django-user-registration-with-email-verification-a83fd23ef560)
   [Link](https://medium.com/geekculture/how-to-create-a-saas-web-application-part-1-htmx-django-809b7435b31a)
   [Link](https://medium.com/geekculture/7-useful-python-libraries-you-should-use-in-your-next-project-538547811de6)
