@@ -60,7 +60,7 @@
 | ----------- | ----------- | ----------- |
 | Models Basics | Understanding Models Basics | [Link](https://<webaddress>) |
 | Primary Keys | Understanding Primary Keys | [Link](https://<webaddress>) |
-| Forieng Keys | Understanding Foreign Keys | [Link](https://<webaddress>) |
+| Foreign Keys | Understanding Foreign Keys | [Link](https://<webaddress>) |
 
 
 ---
