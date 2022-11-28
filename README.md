@@ -98,7 +98,7 @@
 ---
 ---
 
-## [↑](#-table-of-contents) Urls
+## [↑](#-table-of-contents) URLs
 > Views Notes for Django
 
 ---
@@ -108,7 +108,7 @@
 
 | Component   | Description | Link |
 | ----------- | ----------- | ----------- |
-| Views Basics   | Understanding Views Basics | [Link](https://<webaddress>) |
+| URLs Basics   | Understanding URLs Basics | [Link](https://<webaddress>) |
 
 
 ---
@@ -123,7 +123,7 @@
 
 | Component   | Description | Link |
 | ----------- | ----------- | ----------- |
-| Views Basics   | Understanding Views Basics | [Link](https://<webaddress>) |
+| Databases Basics   | Understanding Databases Basics | [Link](https://<webaddress>) |
 
 
 ---
