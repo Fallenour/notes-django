@@ -146,7 +146,7 @@
 ---
 
 ## [↑](#-table-of-contents) Secure Coding
-> Views Notes for Django
+> Secure Coding Notes for Django
 
 ---
 ### Overview 
@@ -155,7 +155,7 @@
 
 | Component   | Description | Link |
 | ----------- | ----------- | ----------- |
-| Views Basics   | Understanding Views Basics | [Link](https://<webaddress>) |
+| Secure Coding Basics   | Understanding Secure Coding Basics | [Link](https://<webaddress>) |
 
 
 ---
