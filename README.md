@@ -15,10 +15,19 @@
 
 ## 📖 Table of Contents
 
-| Project Type   | Synopsis | Link | Status | Deploy |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> | [Warehouse Management System](#-warehouse-management-system) | [Link](https://github.com/Fallenour/Warehouse-Management-System-Django) | ![status](https://img.shields.io/badge/status-up-brightgreen) | [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new-app?template=https://github.com/Fallenour/Warehouse-Management-System-Django) |
-
+| Component   | Description |
+| ----------- | ----------- |
+| Model View Controller (MVC)    | How Django Loads, manages, and handles requests |
+| Models     | How Django structures data |
+| Views     | How Django structures and renders      |
+| Controllers     |     |
+| URLs     | How Django manages endpoints    |  
+| Database     | How Django manages data      |  
+|   Settings   | How Django is configured     |
+| Dockerizing Django     | Best Practices on Dockerizing Django |
+| Secure Coding | Django Secure Coding Best Practices |  
+| Django Unit Tests   | Guides on how to build unit, function, and view testing of Django |  
+| Link | [Warehouse-Management-System](https://github.com/Fallenour/Warehouse-Management-System-Django) |
 ---
 ---
 
