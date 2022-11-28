@@ -19,7 +19,7 @@
 | ----------- | ----------- |
 | Model View Controller (MVC)    | How Django Loads, manages, and handles requests |
 | Models     | How Django structures data |
-| Views     | How Django structures requsts & renders      |
+| Views     | How Django structures requests & renders      |
 | Controllers     |     |
 | URLs     | How Django manages endpoints    |  
 | Database     | How Django manages data      |  
