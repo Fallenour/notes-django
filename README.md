@@ -224,3 +224,20 @@
   [Link](https://nishanthmurugananth.medium.com/django-user-registration-with-email-verification-a83fd23ef560)
   [Link](https://medium.com/geekculture/how-to-create-a-saas-web-application-part-1-htmx-django-809b7435b31a)
   [Link](https://medium.com/geekculture/7-useful-python-libraries-you-should-use-in-your-next-project-538547811de6)
+  
+  ## Reporting
+  [Link](https://www.youtube.com/watch?v=1x_ACMFzGYM)
+  [Link](https://docs.reportlab.com/)
+  [Link](https://django-slick-reporting.readthedocs.io/en/latest/)
+  [Link](https://www.airplane.dev/blog/django-admin-crash-course-how-to-build-a-basic-admin-panel)
+  [Link](https://www.freecodecamp.org/news/how-to-create-an-analytics-dashboard-in-django-app/)
+  [Link](https://www.codementor.io/@chirilovadrian360/django-template-how-to-code-dynamic-pages-in-django-1iqi8vswvx)
+  [Link](
+  [Link](
+  [Link](
+  [Link](https://django-report-builder.readthedocs.io/en/latest/quickstart/)
+  [Link](https://www.caktusgroup.com/blog/2018/05/07/creating-dynamic-forms-django/)
+  [Link](https://djangopackages.org/grids/g/reporting/)
+  [Link](https://wkhtmltopdf.org/)
+  [Link](https://github.com/surya-thakur15/Dynamic-Report-Generation-Using-Python-and-MySQL)
+  [Link](https://www.udemy.com/course/creating-a-dynamic-website-with-django-and-python/)
