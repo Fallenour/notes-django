@@ -225,6 +225,7 @@
   [Link](https://medium.com/geekculture/how-to-create-a-saas-web-application-part-1-htmx-django-809b7435b31a)
   [Link](https://medium.com/geekculture/7-useful-python-libraries-you-should-use-in-your-next-project-538547811de6)
   [Link](https://dev.to/sirneij/making-django-global-settings-dynamic-the-singleton-design-pattern-25en)
+  [Link](https://www.geeksforgeeks.org/django-templates/)
   
   ## Working with Google Spreadsheets
   [Link](https://dev.to/sirneij/django-and-google-spreadsheet-api-automatically-creating-and-deleting-multiple-tabs-or-sheets-3hi0)
