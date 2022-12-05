@@ -226,6 +226,7 @@
   [Link](https://medium.com/geekculture/7-useful-python-libraries-you-should-use-in-your-next-project-538547811de6)
   [Link](https://dev.to/sirneij/making-django-global-settings-dynamic-the-singleton-design-pattern-25en)
   [Link](https://www.geeksforgeeks.org/django-templates/)
+  [Link](https://docs.djangoproject.com/en/4.1/topics/auth/default/#topic-authorization)
   
   ## Working with Google Spreadsheets
   [Link](https://dev.to/sirneij/django-and-google-spreadsheet-api-automatically-creating-and-deleting-multiple-tabs-or-sheets-3hi0)
@@ -238,6 +239,8 @@
   [Link](https://www.airplane.dev/blog/django-admin-crash-course-how-to-build-a-basic-admin-panel)
   [Link](https://www.freecodecamp.org/news/how-to-create-an-analytics-dashboard-in-django-app/)
   [Link](https://www.codementor.io/@chirilovadrian360/django-template-how-to-code-dynamic-pages-in-django-1iqi8vswvx)
+  [Link](https://studygyaan.com/django/how-to-render-dynamic-data-in-django-template)
+  [Link](https://www.reportbro.com/demo/invoice)
   
   [Link](
   [Link](
