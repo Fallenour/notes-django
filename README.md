@@ -223,36 +223,36 @@
 ---
 ---
 
-  [Link](https://medium.com/@ksarthak4ever/django-class-based-views-vs-function-based-view-e74b47b2e41b)
-  [Link](https://levelup.gitconnected.com/django-celery-going-deeper-with-background-tasks-in-python-fa44958cf7cd)
-  [Link](https://articles.wesionary.team/django-optimizations-database-4945cebb945c)
-  [Link](https://nishanthmurugananth.medium.com/django-user-registration-with-email-verification-a83fd23ef560)
-  [Link](https://medium.com/geekculture/how-to-create-a-saas-web-application-part-1-htmx-django-809b7435b31a)
-  [Link](https://medium.com/geekculture/7-useful-python-libraries-you-should-use-in-your-next-project-538547811de6)
-  [Link](https://dev.to/sirneij/making-django-global-settings-dynamic-the-singleton-design-pattern-25en)
-  [Link](https://www.geeksforgeeks.org/django-templates/)
-  [Link](https://docs.djangoproject.com/en/4.1/topics/auth/default/#topic-authorization)
+-  [Link](https://medium.com/@ksarthak4ever/django-class-based-views-vs-function-based-view-e74b47b2e41b)
+-  [Link](https://levelup.gitconnected.com/django-celery-going-deeper-with-background-tasks-in-python-fa44958cf7cd)
+-  [Link](https://articles.wesionary.team/django-optimizations-database-4945cebb945c)
+-  [Link](https://nishanthmurugananth.medium.com/django-user-registration-with-email-verification-a83fd23ef560)
+-  [Link](https://medium.com/geekculture/how-to-create-a-saas-web-application-part-1-htmx-django-809b7435b31a)
+-  [Link](https://medium.com/geekculture/7-useful-python-libraries-you-should-use-in-your-next-project-538547811de6)
+-  [Link](https://dev.to/sirneij/making-django-global-settings-dynamic-the-singleton-design-pattern-25en)
+-  [Link](https://www.geeksforgeeks.org/django-templates/)
+-  [Link](https://docs.djangoproject.com/en/4.1/topics/auth/default/#topic-authorization)
   
   ## Working with Google Spreadsheets
-  [Link](https://dev.to/sirneij/django-and-google-spreadsheet-api-automatically-creating-and-deleting-multiple-tabs-or-sheets-3hi0)
+-  [Link](https://dev.to/sirneij/django-and-google-spreadsheet-api-automatically-creating-and-deleting-multiple-tabs-or-sheets-3hi0)
   
   
   ## Reporting
-  [Link](https://django-slick-reporting.readthedocs.io/en/latest/) Django Slick Reporting with Time Series, Charting, Etc **
-  [Link](https://www.airplane.dev/blog/django-admin-crash-course-how-to-build-a-basic-admin-panel)
-  [Link](https://www.freecodecamp.org/news/how-to-create-an-analytics-dashboard-in-django-app/)
-  [Link](https://www.codementor.io/@chirilovadrian360/django-template-how-to-code-dynamic-pages-in-django-1iqi8vswvx)
-  [Link](https://studygyaan.com/django/how-to-render-dynamic-data-in-django-template)
-  [Link](https://stackoverflow.com/questions/55983973/how-to-create-dynamic-charts-with-django-and-chart-js) Dynamic Charts with Django, Chart.JS, and AJAX **
-  [Link](https://www.reportbro.com/demo/invoice)
-  [Link](https://www.youtube.com/watch?v=1x_ACMFzGYM) Generate PDF Reports Dynamically using ReportLab
-  [Link](https://docs.reportlab.com/) ReportLab Docs
+-  [Link](https://django-slick-reporting.readthedocs.io/en/latest/) Django Slick Reporting with Time Series, Charting, Etc **
+-  [Link](https://www.airplane.dev/blog/django-admin-crash-course-how-to-build-a-basic-admin-panel)
+-  [Link](https://www.freecodecamp.org/news/how-to-create-an-analytics-dashboard-in-django-app/)
+-  [Link](https://www.codementor.io/@chirilovadrian360/django-template-how-to-code-dynamic-pages-in-django-1iqi8vswvx)
+-  [Link](https://studygyaan.com/django/how-to-render-dynamic-data-in-django-template)
+-  [Link](https://stackoverflow.com/questions/55983973/how-to-create-dynamic-charts-with-django-and-chart-js) Dynamic Charts with Django, Chart.JS, and AJAX **
+-  [Link](https://www.reportbro.com/demo/invoice)
+-  [Link](https://www.youtube.com/watch?v=1x_ACMFzGYM) Generate PDF Reports Dynamically using ReportLab
+-  [Link](https://docs.reportlab.com/) ReportLab Docs
   
-  [Link](
-  [Link](https://www.appsloveworld.com/django/100/7/large-django-application-layout)
-  [Link](https://django-report-builder.readthedocs.io/en/latest/quickstart/)
-  [Link](https://www.caktusgroup.com/blog/2018/05/07/creating-dynamic-forms-django/)
-  [Link](https://djangopackages.org/grids/g/reporting/)
-  [Link](https://wkhtmltopdf.org/)
-  [Link](https://github.com/surya-thakur15/Dynamic-Report-Generation-Using-Python-and-MySQL)
-  [Link](https://www.udemy.com/course/creating-a-dynamic-website-with-django-and-python/)
+-  [Link](
+-  [Link](https://www.appsloveworld.com/django/100/7/large-django-application-layout)
+-  [Link](https://django-report-builder.readthedocs.io/en/latest/quickstart/)
+-  [Link](https://www.caktusgroup.com/blog/2018/05/07/creating-dynamic-forms-django/)
+-  [Link](https://djangopackages.org/grids/g/reporting/)
+-  [Link](https://wkhtmltopdf.org/)
+-  [Link](https://github.com/surya-thakur15/Dynamic-Report-Generation-Using-Python-and-MySQL)
+-  [Link](https://www.udemy.com/course/creating-a-dynamic-website-with-django-and-python/)
