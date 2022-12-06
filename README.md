@@ -243,6 +243,7 @@
 -  [Link](https://www.freecodecamp.org/news/how-to-create-an-analytics-dashboard-in-django-app/)
 -  [Link](https://www.codementor.io/@chirilovadrian360/django-template-how-to-code-dynamic-pages-in-django-1iqi8vswvx)
 -  [Link](https://studygyaan.com/django/how-to-render-dynamic-data-in-django-template)
+-  [Link](https://testdriven.io/blog/django-charts/) Adding Charts to Django with Charts.JS
 -  [Link](https://stackoverflow.com/questions/55983973/how-to-create-dynamic-charts-with-django-and-chart-js) Dynamic Charts with Django, Chart.JS, and AJAX **
 -  [Link](https://www.reportbro.com/demo/invoice)
 -  [Link](https://www.youtube.com/watch?v=1x_ACMFzGYM) Generate PDF Reports Dynamically using ReportLab
