@@ -65,6 +65,8 @@
   - [Link](https://docs.djangoproject.com/en/4.1/topics/db/models/)Many to Many
   - [Link](https://docs.djangoproject.com/en/4.1/topics/db/examples/many_to_many/)Many to Many Examples
   - [Link](https://learndjango.com/tutorials/django-best-practices-referencing-user-model) Best Practices Referencing User Models
+  - [Link](https://stackoverflow.com/questions/6928692/how-to-express-a-one-to-many-relationship-in-django) Referncing One to Many Model
+  - [Link](https://docs.djangoproject.com/en/3.2/ref/models/fields/#foreignkey) Foreign Keys
 
 ---
 ---
@@ -244,6 +246,8 @@
   [Link](https://www.codementor.io/@chirilovadrian360/django-template-how-to-code-dynamic-pages-in-django-1iqi8vswvx)
   [Link](https://studygyaan.com/django/how-to-render-dynamic-data-in-django-template)
   [Link](https://www.reportbro.com/demo/invoice)
+  [Link](https://www.youtube.com/watch?v=1x_ACMFzGYM) Generate PDF Reports Dynamically using ReportLab
+  [Link](https://docs.reportlab.com/) ReportLab Docs
   
   [Link](
   [Link](https://www.appsloveworld.com/django/100/7/large-django-application-layout)
