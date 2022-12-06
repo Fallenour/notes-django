@@ -244,10 +244,14 @@
 -  [Link](https://www.codementor.io/@chirilovadrian360/django-template-how-to-code-dynamic-pages-in-django-1iqi8vswvx)
 -  [Link](https://studygyaan.com/django/how-to-render-dynamic-data-in-django-template)
 -  [Link](https://testdriven.io/blog/django-charts/) Adding Charts to Django with Charts.JS
+-  [Link](https://studygyaan.com/django/how-to-use-chart-js-in-django) How to use Charts.JS in Django  
 -  [Link](https://stackoverflow.com/questions/55983973/how-to-create-dynamic-charts-with-django-and-chart-js) Dynamic Charts with Django, Chart.JS, and AJAX **
 -  [Link](https://www.reportbro.com/demo/invoice)
 -  [Link](https://www.youtube.com/watch?v=1x_ACMFzGYM) Generate PDF Reports Dynamically using ReportLab
 -  [Link](https://docs.reportlab.com/) ReportLab Docs
+  
+  
+- https://medium.com/quick-code/creating-advanced-visual-reports-with-angular-750a1858f194 Angular, DevExtreme HTML5 PivotGrid, FlexMonster PivotGrid & Charts,   
   
 -  [Link](
 -  [Link](https://www.appsloveworld.com/django/100/7/large-django-application-layout)
