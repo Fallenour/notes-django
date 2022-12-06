@@ -238,13 +238,12 @@
   
   
   ## Reporting
-  [Link](https://www.youtube.com/watch?v=1x_ACMFzGYM)
-  [Link](https://docs.reportlab.com/)
-  [Link](https://django-slick-reporting.readthedocs.io/en/latest/)
+  [Link](https://django-slick-reporting.readthedocs.io/en/latest/) Django Slick Reporting with Time Series, Charting, Etc **
   [Link](https://www.airplane.dev/blog/django-admin-crash-course-how-to-build-a-basic-admin-panel)
   [Link](https://www.freecodecamp.org/news/how-to-create-an-analytics-dashboard-in-django-app/)
   [Link](https://www.codementor.io/@chirilovadrian360/django-template-how-to-code-dynamic-pages-in-django-1iqi8vswvx)
   [Link](https://studygyaan.com/django/how-to-render-dynamic-data-in-django-template)
+  [Link](https://stackoverflow.com/questions/55983973/how-to-create-dynamic-charts-with-django-and-chart-js) Dynamic Charts with Django, Chart.JS, and AJAX **
   [Link](https://www.reportbro.com/demo/invoice)
   [Link](https://www.youtube.com/watch?v=1x_ACMFzGYM) Generate PDF Reports Dynamically using ReportLab
   [Link](https://docs.reportlab.com/) ReportLab Docs
