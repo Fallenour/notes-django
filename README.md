@@ -64,6 +64,7 @@
 
   - [Link](https://docs.djangoproject.com/en/4.1/topics/db/models/)Many to Many
   - [Link](https://docs.djangoproject.com/en/4.1/topics/db/examples/many_to_many/)Many to Many Examples
+  - [Link](https://learndjango.com/tutorials/django-best-practices-referencing-user-model) Best Practices Referencing User Models
 
 ---
 ---
