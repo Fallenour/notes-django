@@ -243,7 +243,7 @@
   [Link](https://www.reportbro.com/demo/invoice)
   
   [Link](
-  [Link](
+  [Link](https://www.appsloveworld.com/django/100/7/large-django-application-layout)
   [Link](https://django-report-builder.readthedocs.io/en/latest/quickstart/)
   [Link](https://www.caktusgroup.com/blog/2018/05/07/creating-dynamic-forms-django/)
   [Link](https://djangopackages.org/grids/g/reporting/)
