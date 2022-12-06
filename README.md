@@ -247,11 +247,18 @@
 -  [Link](https://studygyaan.com/django/how-to-use-chart-js-in-django) How to use Charts.JS in Django  
 -  [Link](https://stackoverflow.com/questions/55983973/how-to-create-dynamic-charts-with-django-and-chart-js) Dynamic Charts with Django, Chart.JS, and AJAX **
 -  [Link](https://www.reportbro.com/demo/invoice)
--  [Link](https://www.youtube.com/watch?v=1x_ACMFzGYM) Generate PDF Reports Dynamically using ReportLab
 -  [Link](https://docs.reportlab.com/) ReportLab Docs
+-  [Link](https://blog.testproject.io/2019/07/16/create-pytest-html-test-reports/) Create PyTest HTML Test Reporting
   
+
+## Custom PDFs
+
+- [Link](https://ordinarycoders.com/blog/article/generating-pdf-with-django) Generating PDFs with Django
+- [Link](https://www.youtube.com/watch?v=1x_ACMFzGYM) Generate PDF Reports Dynamically using ReportLab  
+
+## Pivot Tables & Charts
   
-- https://medium.com/quick-code/creating-advanced-visual-reports-with-angular-750a1858f194 Angular, DevExtreme HTML5 PivotGrid, FlexMonster PivotGrid & Charts,   
+- [Link](https://medium.com/quick-code/creating-advanced-visual-reports-with-angular-750a1858f194) Angular, DevExtreme HTML5 PivotGrid, FlexMonster PivotGrid & Charts, etc
   
 -  [Link](
 -  [Link](https://www.appsloveworld.com/django/100/7/large-django-application-layout)
