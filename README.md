@@ -97,7 +97,7 @@
 > Controllers Notes for Django
 
 ---
-### Overview 
+### Overview
 - <additional notes here>
 ---
 
